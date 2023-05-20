@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{373A64B5-6604-44A6-8429-C62AFBB5A9B5}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Session-cookie PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Session-cookie/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Session-cookie/Controllers/AccountController.cs" Line="31" Column="31" />
+      <File FileName="Session-cookie/Models/User.cs" Line="7" Column="22" />
+      <File FileName="Session-cookie/Views/Account/Login.cshtml" Line="23" Column="7" />
+      <File FileName="Session-cookie/Views/Home/Privacy.cshtml" Line="5" Column="16" />
+      <File FileName="Session-cookie/Controllers/HomeController.cs" Line="26" Column="13" />
+      <File FileName="Session-cookie/Views/Shared/_Layout.cshtml" Line="34" Column="50" />
+      <File FileName="Session-cookie/ViewModels/LoginVM.cs" Line="7" Column="39" />
+      <File FileName="Session-cookie/Views/_ViewImports.cshtml" Line="3" Column="33" />
+      <File FileName="Session-cookie/Views/Home/Index.cshtml" Line="8" Column="10" />
+      <File FileName="Session-cookie/Program.cs" Line="10" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Session-cookie" expanded="True">
+            <Node name="Session-cookie" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
